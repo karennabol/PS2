@@ -1,0 +1,4 @@
+
+// list of motif connections -
+(gene_3,gene_2) activates gene_1
+gene_2 inhibits gene_1
